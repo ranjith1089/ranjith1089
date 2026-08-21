@@ -124,13 +124,13 @@ Sales & Marketing         ██████████████████
 
 ## 🎯 Current Focus
 
-*🔹 Building scalable SaaS products
-*🔹 Expanding ERP solutions for educational institutions
-*🔹 AI-powered business automation
-*🔹 Digital transformation for organizations
-*🔹 Product development and innovation
-*🔹 Business growth and technology strategy
-*🔹 Creating solutions for Indian businesses and institutions
+* 🔹 Building scalable SaaS products
+* 🔹 Expanding ERP solutions for educational institutions
+* 🔹 AI-powered business automation
+* 🔹 Digital transformation for organizations
+* 🔹 Product development and innovation
+* 🔹 Business growth and technology strategy
+* 🔹 Creating solutions for Indian businesses and institutions
 
 ---
 
