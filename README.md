@@ -9,16 +9,16 @@ Currently, I work with **Aveon Infotech Private Limited**, where I contribute to
 ---
 
 ## 🚀 About Me
-
-* 💼 General Manager at **Aveon Infotech Private Limited**
-* 🎓 MCA — Bharathiar University
-* 💻 15+ years of experience across software and technology initiatives
-* 🚀 Focused on SaaS, ERP, AI, automation and digital transformation
-* 🏫 Working extensively with Education Technology and ERP solutions
-* 🧩 Interested in enterprise application architecture and scalable software products
-* 📈 Passionate about business growth, sales, marketing and product strategy
-* 🌐 Interested in building technology products for Indian and global markets
-
+```text
+💼 General Manager at **Aveon Infotech Private Limited**
+🎓 MCA — Bharathiar University
+💻 15+ years of experience across software and technology initiatives
+🚀 Focused on SaaS, ERP, AI, automation and digital transformation
+🏫 Working extensively with Education Technology and ERP solutions
+🧩 Interested in enterprise application architecture and scalable software products
+📈 Passionate about business growth, sales, marketing and product strategy
+🌐 Interested in building technology products for Indian and global markets
+```
 ---
 
 ## 💡 What I Work On
