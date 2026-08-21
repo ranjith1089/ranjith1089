@@ -2,9 +2,9 @@
 
 ### General Manager | Technology & Business Strategy | SaaS | ERP | AI | Digital Transformation
 
-I’m a technology and business professional with a strong focus on **enterprise software, SaaS products, ERP platforms, AI-driven solutions, and digital transformation**.
+I’m a technology and business professional with a strong focus on **enterprise software, SaaS products, ERP platforms, AI-driven solutions and digital transformation**.
 
-Currently, I work with **Aveon Infotech Private Limited**, where I contribute to product strategy, business development, technology initiatives, customer relationships, and growth.
+Currently, I work with **Aveon Infotech Private Limited**, where I contribute to product strategy, business development, technology initiatives, customer relationships and growth.
 
 ---
 
